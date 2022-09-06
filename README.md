@@ -9,6 +9,7 @@
 - [Web-dev](#web-dev)
 - [HTML](#html)
 - [CSS](#css)
+- [JavaScript](#javascript)
 - [React](#react)
 - [FullStack](#fullstack)
 - [Projects](#projects)
@@ -91,4 +92,32 @@ Indeed it is *yet* another guide. Fight me bro.
 **Other**
  - [various roadmaps](https://github.com/kamranahmedse/developer-roadmap).
  - don't know much about these but they look nice.
+
+
+## Setup
+To be or not to be...
+
+## Web-dev
+To be or not to be...
+
+## HTML
+To be or not to be...
+
+## CSS
+To be or not to be...
+
+## JavaScript
+To be or not to be...
+
+## React
+To be or not to be...
+
+## FullStack
+To be or not to be...
+
+## Projects
+To be or not to be...
+
+## Getting a job
+To be or not to be...
 
