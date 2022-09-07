@@ -182,6 +182,49 @@ Indeed it is *yet* another guide. Fight me bro.
 	- you can also search for advice on reddit regarding anything, because these kind of questions have been answered by a lot of people.
 	- a great platform to find true expert opinions about anything.
 
+**YouTube channels**
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) 
+	- absolute must, great and concise content about frontend trends.
+- [Randy](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg) 
+	- absolutely hilarious dude that makes his own game for some years now.
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) 
+	- great channel about web development.
+- [Kevin Powell](https://www.youtube.com/user/KepowOb) 
+	- great CSS tricks and tips channel.
+- [ExtremeCode](https://www.youtube.com/user/iproname) 
+	- russian coding entertainment, just for laughs.
+- [carykh](https://www.youtube.com/user/carykh/videos) 
+	- great channel about cool personal coding projects.
+- [Computerphile](https://www.youtube.com/user/Computerphile) 
+	- advanced topics explained simply.
+- [Mental Outlaw](https://www.youtube.com/user/MentalOutlawStudios) 
+	- you have to know about all the digital spying that happens nowadays.
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) 
+	- great practical tutorials about web development.
+- [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+	- entertainment videos that kinda show you how artificial intelligence works.
+- [Fredrik Christenson](https://www.youtube.com/c/FredrikChristenson/videos)
+	- various videos in which he talks about life as a coder.
+- [IT-KAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)
+	- random russian talks about the industry.
+- [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+	- great tutorials, sadly not full since he wants you to but them.
+	- nothing torrent can't fix :)
+- [Как пройти в IT?](https://www.youtube.com/channel/UCdpVvYaPX7m_i2CUP7paBFQ/videos)
+	- great russian channel which explains things with visuals.
+- [АйТиБорода](https://www.youtube.com/c/ITBEARD/videos)
+	- channel with a bunch of interviews with professionals.
+- [Wes Bos](https://www.youtube.com/c/WesBos/videos)
+	- great tools and guides.
+- [Viorel Mocanu](https://www.youtube.com/c/ViorelMocanu/videos)
+	- romanian channel with interviews and advice.
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain/videos)
+	- a living legend of a channel with a lot of coding challenges.
+- [Лёша Корепанов](https://www.youtube.com/c/aocore/videos)
+	- russian dude talking about his programmer experience in Europe.
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder/videos)
+	- videos of a good quality.
+
 ## Web-dev
 
 **Time**
