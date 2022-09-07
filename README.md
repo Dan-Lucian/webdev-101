@@ -6,6 +6,7 @@
 - [General](#general)
 - [Roadmaps](#roadmaps)
 - [Setup](#setup)
+- [Resources](#resources)
 - [Web-dev](#web-dev)
 - [HTML](#html)
 - [CSS](#css)
@@ -85,8 +86,9 @@ Indeed it is *yet* another guide. Fight me bro.
 **Front-end development**
  - [the roadmap](https://roadmap.sh/frontend).
  - this roadmap should be your main learning guide. 
- - you will have to go through all the topics there, starting the from the basic topics and advance to the more complex ones.
+ - you will have to go through all the topics there, starting from the basic topics and advancing to the more complex ones.
  - anytime you question yourself what to study next go and take a look at it.
+ - be aware that this roadmap offers a lot of links to each topic, don't study them all, usually the first one is enough.
  - at the moment of writing this, I myself am at the "Type Checkers" level.
 
 **Other**
@@ -95,22 +97,192 @@ Indeed it is *yet* another guide. Fight me bro.
 
 
 ## Setup
-To be or not to be...
+
+**Time**
+- 1 week
+
+**Code editor**
+- [VSCode](https://code.visualstudio.com/)
+- by far the best free code editor when it comes to front-end development.
+- *protips:*
+	- watch some tutorials on YouTube about VSCode.
+	- learn what are VSCode extensions, watch some YouTube about useful extensions.
+		- my favourites are: 
+			- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+				- easy html writing.
+			- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+				- makes your code be visible in the browser in real time.
+			- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+				- nice icons.
+			- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+				- tool which autoformats your code to look nice.
+				- might need to look some videos on how to setup it.
+			- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+				- a more advanced tool which in future will help you detect errors before they happen.
+	- *another protip:* learn a few [shortcuts](https://www.youtube.com/watch?v=ifTF3ags0XI&t=146s).
+
+**Note taking app**
+- [Evernote](https://help.evernote.com/hc/en-us/articles/360052560314-Install-an-older-version-of-Evernote)
+
+**Browsers**
+- a web developer will work with multiple browser to ensure that the websites look the same on different browsers because they have their small differences.
+- Chrome (primary).
+- Mozilla (secondary).
+- Safari (secondary).
+
+**Git**
+- [Git](https://git-scm.com/)
+- a tool which keeps track of changes in your code over the time.
+- once you start working with GitHub you will have to understand what is git and how it works.
+- a quick search gave me [this video](https://www.youtube.com/watch?v=8Dd7KRpKeaE) which looks nice and also tells you about Git and GitHub desktop.
+
+**Cloud repository**
+- [GitHub](https://github.com/)
+- a platform to store you code on the cloud based on Git.
+- once you become experienced you understand that all the great guides are written here (like this one).
+- register and watch some YouTube videos on how to use it.
+- at first it looks difficult because you will have to use Git and GitHub desktop so spend a few good days and understand it well because no developer works without git.
+- regularly deploy you day's work here because this platform provides an activity bar which shows how dedicated you are.
+- when you are getting hired your GitHub profile is what people look at first, having a documented journey is the proof of your hard-working spirit, you can take a look at my activity bar as well.
+
+**Git manager**
+- [GitHub desktop](https://desktop.github.com/)
+- great tool which helps you work with git without having to use the terminal and remember a bunch of commands.
+
+**Package manager (not mandatory)**
+- [Node js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/).
+- in the future you will need to install them on your pc, install them then.
+- by future I mean when you will reach the React topic, which is not around the corner at all.
+
+**White  noise**
+- [my noise](https://mynoise.net/).
+- for the ones that have to study in a loud environment.
+- the website has a collection of natural sounds that can act as white noise.
+
+## Resources
+
+**A collection of ultra solid universal learning resources:**
+- [mdn](https://developer.mozilla.org/en-US/)
+	- the professional's choice.
+	- quite beginner unfriendly.
+- [w3schools](https://www.w3schools.com/)
+	- solid guides about everything.
+	- beginner friendly.
+- [freecodecamp](https://www.freecodecamp.org/)
+	- solid guides.
+	- beginner friendly.
+	- don't know much about it though, haven't used it much.
+- [stackoverflow](https://stackoverflow.com/)
+	- any bug/error or question you might have has already been answered here.
+	- usually comes up when you describe a coding error in google.
+- [Reddit](https://www.reddit.com/)
+	- the social platform coders prefer.
+	- has a lot of communities about all the possible topics including front-end, computer sciene etc.
+	- you can also find answers to various coding question here, just append "reddit" after any google search.
+	- you can also search for advice on reddit regarding anything, because these kind of questions have been answered by a lot of people.
+	- a great platform to find true expert opinions about anything.
 
 ## Web-dev
-To be or not to be...
+
+**Time**
+- 1-2 weeks
+
+**What to learn**
+- the roadmap has good resources on this topic, use the links provided by the roadmap.
+- what is internet and how it works.
+- how websites are made.
+- you can search for resources yourself if you want, the web is full of them.
+
+**Before learning specific technologies**
+- before studying each technology in particular have a look at this [guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) which takes you through the most basic concepts and finish the "Getting started with the web" topic.
+	- don't be scared about the "creating a local server" because the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VSCode extension does this automatically for you.
+
+**Gamified learning**
+- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified).
+	- one of the best YouTube channels which focuses on web development.
 
 ## HTML
-To be or not to be...
+**Time**
+- 1-2 weeks
+
+**Resources (choose one)**
+- [w3schools html](https://www.w3schools.com/html/html_intro.asp) (primary).
+	- go through all the html topics one by one.
+	- write the code in you editor instead of the editor provided by the website and get used to writing code.
+	- experiment with html in your code editor and try various things that maybe weren't explained in the article.
+	- has nice exercises along the way and a quizz at the end. 
+- [mdn html](https://developer.mozilla.org/en-US/docs/Learn/HTML) (a more advanced resource).
+	- less comprehensive that the previous resource and harder to navigate.
+	- is the continuation of the "Getting started with the web" guide which you hopefully went through.
 
 ## CSS
-To be or not to be...
+**Time**
+- 2-4 weeks
+
+**Resources (choose one)**
+- [w3schools css](https://www.w3schools.com/css/) (primary).
+	- go through all the CSS topics one by one.
+	- write the code in you editor instead of the editor provided by the website and get used to writing code.
+	- experiment with CSS in your code editor and try various things that maybe weren't explained in the article.
+	- has nice exercises along the way and a quizz at the end.
+- [mdn css](https://developer.mozilla.org/en-US/docs/Learn/CSS) (a more advanced resource).
+	- less comprehensive that the previous resource and harder to navigate.
+	- is the continuation of the "Getting started with the web" guide which you hopefully went through.
+- [CSS tricks](https://css-tricks.com/)
+	- a collection of articles about various CSS topics.
+	- not a step by step website, it's more of a website you get recommended when you search for a specific CSS topic in google.
+	- for example [this article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is a gold standard on explaining how flexbox works.
+
+**Gamified learning**
+- [Kevin Powell](https://www.youtube.com/kepowob).
+	- one of the best YouTube channels which focuses on CSS tricks and tips.
+- [CSS Battle](https://cssbattle.dev/)
+	- great online platform to test your CSS skills in a gamified way, [Kevin Powell](https://www.youtube.com/kepowob) has some videos on this.
 
 ## JavaScript
-To be or not to be...
+
+**Time**
+- 1-4 months
+
+**Resources**
+- [javascript info](https://javascript.info/) (primary).
+	- the holy grail among the JavaScript documentations.
+	- topics on everything JS has to offer.
+	- highly advised to read each and every article since JS is *the* front-end. Everything nowadays is JS. Think of JS as the lowest level of the foundation you have, if it is solid then your future is solid as well.
+	- the articles you can skip are the following:
+		- The JavaScript language
+			- 3.5 Automated testing with Mocha.
+			- 4.7 Symbol type.
+			- 4.8 Object to primitive conversion.
+			- 5.8 WeakMap and WeakSet.
+			- 7.1 Property flags and descriptors.
+			- 9.7 Mixins.
+			- 12.1 Generators.
+			- 12.2 Async iteration and generators.
+			- all in the Miscellaneous section.
+		- Browser: Document, Events, Interfaces
+			- 6.1 Mutation observer.
+			- 6.2 Selection and Range.
+		- Additional articles
+			- all in Frames and windows.
+			- all in Binary data, files.
+			- 4.3 IndexedDB.
+			- all in Web components.
+			- all in Regular expressions.
+	- those articles are skipable because they talk about very niche topics with things that are not that frequently used, you can of course read them if you are interested though.
+	- has exercises at the end of each topic which I encourage to solve by yourself even if it might take some days.
+	- *protip:* if you know russian the website has a hidden section if you switch to the russian version of the website. It is about CSS and covers only tips and tricks that are real handy and can step up your CSS game.
+	- It took me 3 months to complete this website with everything it has to offer including exercises which sometimes took me days.
+
+**Gamified learning**
+- there are many platforms I personally use Code wars. 
+- [Code wars](https://www.codewars.com/dashboard)
+	- great online platform to test your JS skills in a gamified way.
 
 ## React
-To be or not to be...
+
+**Time**
+- 1 month
 
 ## FullStack
 To be or not to be...
